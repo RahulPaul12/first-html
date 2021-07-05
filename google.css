@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 100px;
+}
+#h12{
+    color: rgb(29, 97, 223);
+}
+#h13{
+    color: rgb(223, 29, 29);
+}
+#h14{
+    color: rgb(223, 220, 29);
+}
+#h15{
+    color: rgb(29, 97, 223);
+}
+#h16{
+    color: rgb(0, 129, 6);
+}
+#h17{
+    color: rgb(223, 13, 13);
+}
+.box{
+    margin-left: 750px;
+    margin-bottom: 1000px;
+    padding: 10px;
+    box-sizing: border-box;
+    background-origin: padding-box;
+}
